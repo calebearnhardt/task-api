@@ -1,1 +1,1 @@
-https://task-api-va9l.onrender.com/api-docs
+https://task-api-va9l.onrender.com
